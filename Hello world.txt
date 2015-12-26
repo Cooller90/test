@@ -1,6 +1,10 @@
-print("Hello world")
 Console.WriteLine("Hello world again!!")
+Console.WriteLine("Hello world")
 public void Add()
 {
 Console.WriteLine("Hello world again!!")
+}
+public void Add()
+{
+Console.WriteLine("Hello world")
 }
