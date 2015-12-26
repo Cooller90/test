@@ -1,3 +1,5 @@
 print("Hello world")
 Console.WriteLine("Hello world again!!")
-Add new()
+public void Add()
+{
+}
