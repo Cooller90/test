@@ -1,5 +1,13 @@
-print("Hello world");
+<<<<<<< HEAD
+Console.WriteLine("Hello world");
+=======
 Console.WriteLine("Hello world again!!");
+>>>>>>> master
 public void Add()
 {
+Console.WriteLine("Hello world again!!")
+}
+public void Add()
+{
+Console.WriteLine("Hello world")
 }
